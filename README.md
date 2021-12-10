@@ -1,15 +1,16 @@
-# A practice project created to manage expenses with the help of React
+# Expenses Manager
+A practice project created to manage expenses with the help of React
 
-## Using States, Events, Rendering Lists and Conditional Content
+Using States, Events, Rendering Lists and Conditional Content
 
-### HomePage
+## HomePage
 
 ![alt text](https://github.com/aaryen-dsouza/Expenses-Manager/blob/main/public/FrontPage.png)
 
-### Add Expenses
+## Add Expenses
 
 ![alt text](https://github.com/aaryen-dsouza/Expenses-Manager/blob/main/public/AddExpense.png)
 
-### Filter By Year
+## Filter By Year
 
 ![alt text](https://github.com/aaryen-dsouza/Expenses-Manager/blob/main/public/Filter.png)
